@@ -1,3 +1,12 @@
+![image](https://github.com/pwnengine/React-Todo-Application/assets/99378532/33fc2375-0aa3-4b51-b261-c227c05ba4ab)
+
+
+
+
+# THIS PROJECT WAS CREATED WITH VITE + REACT + TYPESCRIPT
+# PROJECT TECH INFO BELOW
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
